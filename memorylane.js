@@ -38,7 +38,7 @@
         {
           image: "5.jpg",
           caption:
-            "Our camping trip under the stars. You were terrified of that tiny spider and jumped so high! Still my favorite memory.",
+            "As the saying goes, 'Life is like a box of chocolates, you never know what you're gonna get.' But I know you'll always make the best of it! Happy birthday! 🎂",
           isGif: false,
           rotationAngle: -3,
           emoji: "🏕️",
@@ -46,7 +46,7 @@
         {
           image: "6.jpg",
           caption:
-            "That concert where we danced until our feet hurt. Worth every blister!",
+            "the title of your autobiography should be 'The Short Story of a Tall Life' because you may be short in stature but your life is full of big adventures and amazing stories! Happy birthday! 🎉",
           isGif: true,
           rotationAngle: 1,
           emoji: "🎵",
@@ -54,7 +54,7 @@
         {
           image: "7.jpg",
           caption:
-            "When we built that epic blanket fort during the storm and watched movies all day. Best rainy day ever!",
+            "you may think you can cook but you can't even boil water without burning it 😂, but that's what makes you so unique! Happy birthday! chef 🥐🥓",
           isGif: false,
           rotationAngle: -2,
           emoji: "🏰",
@@ -63,7 +63,7 @@
         {
           image: "8.jpg",
           caption:
-            "Remember when we got lost hiking and found that amazing waterfall? Best wrong turn ever! 😂",
+            "Remember to eat your food, properly,or you might be blown away by a strong gust of wind 😂, but that's not so bad after all you can say i believe i can fly!",
           isGif: false,
           rotationAngle: -2,
           emoji: "🌊",

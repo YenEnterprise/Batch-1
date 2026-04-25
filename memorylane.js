@@ -6,7 +6,7 @@
         {
           image: "1.jpg",
           caption:
-            "Remember the pookie joke it good you stopped it or you would have been in big trouble 😎",
+            "Remember the pookie joke it's a good thing you stopped it or you would have been in big trouble 😎",
           isGif: false,
           rotationAngle: -2,
           emoji: "🌊",
@@ -14,7 +14,7 @@
         {
           image: "2.jpg",
           caption:
-            "That time we stayed up all night just talking and watching the sunrise. I've never laughed so hard in my life!",
+            "Hey You , Yes You tiny Human,Happy 30th Birthday! I know you are not a fan of big celebrations, so I made this little surprise for you. I hope it brings a smile to your face and ,Here's to many more adventures and memories to come! 🎉",
           isGif: false,
           rotationAngle: 3,
           emoji: "🌅",
@@ -22,7 +22,7 @@
         {
           image: "3.jpg",
           caption:
-            "Our first road trip together! You fell asleep and I drew a tiny mustache on you with a marker. You didn't notice for HOURS!",
+            "why do short people always have a positive attitude? Because they can't see the negativity! 😂",
           isGif: true,
           rotationAngle: -1,
           emoji: "🚗",
@@ -30,7 +30,7 @@
         {
           image: "4.jpg",
           caption:
-            "Remember our cooking disaster when we tried to make that fancy recipe? The smoke alarm going off, but the pizza we ordered after was the best ever!",
+            "if your life were a book, you're currently in the middle of a chapter,not at the end, so keep writing cause their is so amazing things yet to come and am waiting for the next chapter, keep writing and make it the best one yet! Happy birthday! 🎂",
           isGif: false,
           rotationAngle: 2,
           emoji: "🍕",

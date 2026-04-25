@@ -6,7 +6,7 @@
         {
           image: "1.jpg",
           caption:
-            "A man walks into a library and asks for a glass of water . the librarian whispers, sir this is a library. the man apologizes and says, oh sorry, may i have a glass of water please? 😂",
+            "A man walks into a library and shouts for a glass of water . the librarian whispers, sir this is a library. the man apologizes and says, oh sorry, may i have a glass of water please? 😂",
           isGif: false,
           rotationAngle: -2,
           emoji: "🌊",

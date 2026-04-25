@@ -12,7 +12,7 @@
           emoji: "🌊",
         },
         {
-          image: "2.jpeg",
+          image: "2.jpg",
           caption:
             "That time we stayed up all night just talking and watching the sunrise. I've never laughed so hard in my life!",
           isGif: false,

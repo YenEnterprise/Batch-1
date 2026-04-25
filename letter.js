@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 500);
 
             // Typewriter effect for letter
-            const letterContent = "Happy 2️⃣5️⃣  Birthday! 😂  I was just thinking about our friendship and it made me smile. I love that we can talk for hours about absolutely everything and anything—it’s honestly my favorite thing. Thanks for always being there to listen and for being the person I can share any thought with. You’re such a kind and thoughtful soul, and I’m so lucky to have you. Here’s to many more years of great conversations!" Little One 😊;
+            const letterContent = "My dearest friend,  As I sit here thinking about all our memories together, I can't help but smile. From our late-night talks to our spontaneous adventures, you've filled my life with so much joy and laughter. You've been my shoulder to cry on, my partner in crime, and my biggest supporter.\n\nOn your special day, I want you to know how grateful I am to have you in my life. You make every day brighter just by being you - kind, funny, and incredibly thoughtful.\n\nHappy Birthday to my favorite person in the world! Here's to many more years of friendship, laughter, and creating memories together.\n\nWith all my love,\n Little One";
             
             new Typed('#typed-text', {
                 strings: [letterContent],

@@ -6,7 +6,8 @@
         {
           image: "1.jpg",
           caption:
-            "Remember when we got lost hiking and found that amazing waterfall? Best wrong turn ever! 😂",
+            "A man walks into a library and asks for a glass of water. The librarian whispers, "Sir, this is a library."
+The man nods, leans in close, and whispers, "I’m sorry... may I have a glass of water?"
           isGif: false,
           rotationAngle: -2,
           emoji: "🌊",
